@@ -5,6 +5,10 @@ Spades security android application
 
 This repository contains the **Android application** of **SPADES (Smart Parcel And Delivery Entry System)** – a project developed to combat **parcel theft** using a combination of **AI-based object detection**, **face recognition**, and **smart alerts**.
 
+> ⚠️ **Notice:**  
+> The source code for the Android application is located in the **`master`** branch.  
+> Please switch to the `master` branch to view or clone the actual app code.
+
 > 🛠️ This app is part of a larger smart home automation system developed for the **Atomquest Innovation Challenge** by Team Mirage.
 
 ---
