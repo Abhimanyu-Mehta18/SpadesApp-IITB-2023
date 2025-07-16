@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368183133230",
+    "project_id": "iit-b-miragenotification",
+    "storage_bucket": "iit-b-miragenotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368183133230:android:6180b4831c6af17c9e0bbf",
+        "android_client_info": {
+          "package_name": "com.example.spades"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2j43AwSrjerLQpPuY_NVQUkRTN6Sezo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
